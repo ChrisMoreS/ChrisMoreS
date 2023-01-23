@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Big Web Projects as Freelance**
 
-- 👨‍💻 All of my projects, news and blogs are available at [cmms-portfolio.com](cmmsportfolio.com)
+- 👨‍💻 All of my projects, news and blogs are available at [cmms-portfolio.com](https://cmmsportfolio.com)
 
 - 📫 How to reach me **christianmanuelms@gmail.com**
 
