@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python && Full Stack Web and Mobile apps developer**
 
-- 👯 I’m looking to collaborate on **Big Web Projects and**
+- 👯 I’m looking to collaborate on **Big Web Projects as Freelance**
 
 - 👨‍💻 All of my projects, news and blogs are available at [cmms-portfolio.com](cmms-portfolio.com)
 
