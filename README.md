@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrismores" alt="chrismores" /></a> </p>
 
-- 🔭 I’m currently working on [Nordic Optical Telescope (NOT)](www.not.iac.es)
+- 🔭 I’m currently working on [Nordic Optical Telescope (NOT)](http://www.not.iac.es)
 
 - 🌱 I’m currently learning **Machine Learning with Python && Full Stack Web and Mobile apps developer**
 
