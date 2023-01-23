@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python && Full Stack Web and Mobile apps developer**
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **Big Web Projects and**
 
 - 👨‍💻 All of my projects, news and blogs are available at [cmms-portfolio.com](cmms-portfolio.com)
 
@@ -21,8 +21,9 @@
 <p align="left">
 <a href="https://codepen.io/@morenochristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@morenochristian" height="30" width="40" /></a>
 <a href="https://twitter.com/_mocciato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mocciato" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christian manuel moreno saldaña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian manuel moreno saldaña" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christianmanuelmorenosaldaña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianmanuelmorenosaldaña" height="30" width="40" /></a>
 <a href="https://codesandbox.com/chrismores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="chrismores" height="30" width="40" /></a>
+<a href="https://fb.com/100081790604411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100081790604411" height="30" width="40" /></a>
 <a href="https://instagram.com/_mocciato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mocciato" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@_mocciato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_mocciato" height="30" width="40" /></a>
 </p>
